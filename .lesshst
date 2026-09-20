@@ -1,0 +1,5 @@
+.less-history-file:
+.search
+"storage/downloads/playanime.zip | head -20
+"d sdcard -iname 'playanime.zip' 2>/dev/null
+.mark
