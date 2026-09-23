@@ -73,3 +73,55 @@ git commit -m "Initial commit"
 git branch -M main
 git remote add origin https://github.com/yagasuha-dotcom/PlayPlay.git
 git push -u origin main
+npm install
+npm run dev
+npm install
+cd /path/ke/clint-trade
+termux-setup-storage
+y
+git init
+git branch -M main
+git add .
+git commit -m "Initial CLINT TRADE game"
+git remote add origin https://github.com/yagasuha-dotcom/Forexgame.git
+git push -u origin main
+git remote set-url origin https://github.com/yagasuha-dotcom/Forexgame.git
+git add .
+git commit -m "Update CLINT TRADE"
+git push -u origin maingit remote set-url origin https://github.com/yagasuha-dotcom/GAHAR.git
+git remote set-url origin https://github.com/yagasuha-dotcom/GAHAR.git
+hrir
+git remote set-url origin https://github.com/yagasuha-dotcom/GAHAR.git
+git add .
+git commit -m "Update CLINT TRADE"
+git push -u origin main
+cd ~/storage/downloads/CLINT-TRADE
+ls
+git init
+git branch -M main
+git remote remove origin 2>/dev/null
+git remote add origin https://github.com/yagasuha-dotcom/GAHAR1.git
+git remote -v
+git config --global --add safe.directory /storage/emulated/0/Download/CLINT-TRADE
+git branch -M main
+git remote add origin https://github.com/yagasuha-dotcom/GAHAR1.git
+git remote -v
+git add .
+git commit -m "Initial CLINT TRADE project"
+git push -u origin main
+cd ~/storage/downloads
+unzip CLINT-TRADE-V2.zip
+cd CLINT-TRADE-V2
+ls
+git init
+git branch -M main
+git config --global --add safe.directory /storage/emulated/0/Download/CLINT-TRADE-V2
+git remote add origin https://github.com/yagasuha-dotcom/GAHAR1.git
+git branch -M main
+git add .
+git commit -m "CLINT TRADE V2"
+git push -u origin main --force
+unzip clint-trade.zip && cd clint-trade
+npm install
+npm run dev        # http://localhost:5173
+npm test           # soak test dunia + playtest gameplay
